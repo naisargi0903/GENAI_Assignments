@@ -1,4 +1,4 @@
-# SEM 6 GENAI_Assignments
+# SEM 6 : GENAI_Assignments
 
 ## Overview
 This repository contains implementations of various AI-based generative and multimodal tasks. The projects cover probabilistic generative models, text generation, fine-tuning large language models, image generation, multimodal AI, and text-to-speech synthesis.
