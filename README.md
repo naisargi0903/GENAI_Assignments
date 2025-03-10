@@ -3,6 +3,8 @@
 ## Overview
 This repository contains implementations of various AI-based generative and multimodal tasks. The projects cover probabilistic generative models, text generation, fine-tuning large language models, image generation, multimodal AI, and text-to-speech synthesis.
 
+---
+
 ## Project List
 ### 1. **Basic Probabilistic Generative Model**
 - Implement a Gaussian Mixture Model (GMM) for clustering data points.
