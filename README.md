@@ -5,7 +5,7 @@ This repository contains implementations of various AI-based generative and mult
 
 ---
 
-## Project List
+## Assignment List
 ### 1. **Basic Probabilistic Generative Model**
 - Implement a Gaussian Mixture Model (GMM) for clustering data points.
 - Alternatively, build a simple text generator using Markov Chains.
